@@ -52,6 +52,3 @@ We trained and evaluated multiple regression models:
 
 ## 💡 Contributors
 - **Akshay Yede** – Aspiring Data Scientist
-
-## 📜 License
-This project is **open-source** under the MIT License.
